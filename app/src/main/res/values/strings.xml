@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">rxjavamvvm</string>
+    <string name="search_et_hint">검색하려는 도서를 입력해주세요.</string>
+</resources>

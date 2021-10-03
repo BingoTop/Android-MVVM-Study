@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="book_image_width">80dp</dimen>
+    <dimen name="book_image_height">80dp</dimen>
+    <dimen name="et_padding_start">10dp</dimen>
+    <dimen name="detail_last_padding_bottom">15dp</dimen>
+    <dimen name="detail_tv_margin">10dp</dimen>
+</resources>
